@@ -1,5 +1,7 @@
 import static org.junit.jupiter.api.Assertions.*;
 
+//good jobs
+
 //划分5个等价类：元素少于3个的数组，元素全是整数，元素全是负数，元素全是0，元素有正有负
 class Solution11Test {
 
